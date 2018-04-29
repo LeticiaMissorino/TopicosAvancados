@@ -1,0 +1,33 @@
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ViewForm.csprojResolveAssemblyReference.cache
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ViewForm.csproj.GenerateResource.cache
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ViewForm.csproj.CoreCompileInputs.cache
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BancoDadosDB.dll
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidade.dll
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BancoDadosDB.pdb
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidade.pdb
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ViewForm.csproj.CopyComplete
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Linguagem.resources
+C:\Users\Heydnéa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Principal.resources
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BancoDadosDB.dll
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidade.dll
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BancoDadosDB.pdb
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidade.pdb
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ViewForm.csprojResolveAssemblyReference.cache
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Principal.resources
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ViewForm.csproj.GenerateResource.cache
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ViewForm.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ViewForm.csproj.CopyComplete
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLinguagem.resources
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\Linguagem-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FRMRepositorio.resources

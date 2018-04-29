@@ -1,0 +1,42 @@
+C:\Users\andre\source\repos\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.deps.json
+C:\Users\andre\source\repos\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.dll
+C:\Users\andre\source\repos\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.pdb
+C:\Users\andre\source\repos\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.csprojResolveAssemblyReference.cache
+C:\Users\andre\source\repos\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.AssemblyInfo.cs
+C:\Users\andre\source\repos\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.dll
+C:\Users\andre\source\repos\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.pdb
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.deps.json
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.dll
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.pdb
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.csprojResolveAssemblyReference.cache
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.csproj.CoreCompileInputs.cache
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.AssemblyInfo.cs
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.dll
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.pdb
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.deps.json
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.dll
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.pdb
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.csprojResolveAssemblyReference.cache
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.AssemblyInfoInputs.cache
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.AssemblyInfo.cs
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.dll
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.pdb
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.deps.json
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.dll
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.pdb
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.AssemblyInfoInputs.cache
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.AssemblyInfo.cs
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.dll
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.pdb
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.deps.json
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.dll
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\ControleDeProblemas\Entidade\bin\Debug\netstandard1.4\Entidade.pdb
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.csprojResolveAssemblyReference.cache
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.AssemblyInfoInputs.cache
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.AssemblyInfo.cs
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.dll
+C:\Users\João Missorino\Desktop\Leticia\TopicosAvancados\ControleDeProblemas\Entidade\obj\Debug\netstandard1.4\Entidade.pdb

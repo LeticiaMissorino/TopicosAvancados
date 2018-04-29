@@ -1,0 +1,26 @@
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Controle2\bin\Debug\Controle2.dll
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Controle2\bin\Debug\Controle2.pdb
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Controle2\bin\Debug\Entidade.dll
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Controle2\bin\Debug\Entidade.pdb
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Controle2\obj\Debug\Controle2.csprojResolveAssemblyReference.cache
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Controle2\obj\Debug\Controle2.csproj.CoreCompileInputs.cache
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Controle2\obj\Debug\Controle2.dll
+C:\repositoryLogatti\TopicosAvançados\ControleDeProblemas\Controle2\obj\Debug\Controle2.pdb
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Controle2\bin\Debug\Controle2.dll
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Controle2\bin\Debug\Controle2.pdb
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Controle2\bin\Debug\Entidade.dll
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Controle2\bin\Debug\Entidade.pdb
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Controle2\obj\Debug\Controle2.csprojResolveAssemblyReference.cache
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Controle2\obj\Debug\Controle2.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Controle2\obj\Debug\Controle2.csproj.CopyComplete
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Controle2\obj\Debug\Controle2.dll
+C:\Users\João Missorino\Desktop\exemploAndre\ControleDeProblemas\Controle2\obj\Debug\Controle2.pdb
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Controle2\bin\Debug\Controle2.dll
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Controle2\bin\Debug\Controle2.pdb
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Controle2\bin\Debug\Entidade.dll
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Controle2\bin\Debug\Entidade.pdb
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Controle2\obj\Debug\Controle2.csprojResolveAssemblyReference.cache
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Controle2\obj\Debug\Controle2.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Controle2\obj\Debug\Controle2.csproj.CopyComplete
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Controle2\obj\Debug\Controle2.dll
+C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Controle2\obj\Debug\Controle2.pdb

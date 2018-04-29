@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewForm", "WindowsFormsApp1\ViewForm.csproj", "{3CA85125-1264-47A5-B55B-413C2D31B01D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidade", "Entidade\Entidade.csproj", "{E883AC97-22F7-4066-A0C8-27693742808C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDadosDB", "BancoDadosDB\BancoDadosDB.csproj", "{6015D991-D2BF-4FD8-9B88-27422F58DEBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA85125-1264-47A5-B55B-413C2D31B01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA85125-1264-47A5-B55B-413C2D31B01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA85125-1264-47A5-B55B-413C2D31B01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA85125-1264-47A5-B55B-413C2D31B01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E883AC97-22F7-4066-A0C8-27693742808C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E883AC97-22F7-4066-A0C8-27693742808C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E883AC97-22F7-4066-A0C8-27693742808C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E883AC97-22F7-4066-A0C8-27693742808C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6015D991-D2BF-4FD8-9B88-27422F58DEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6015D991-D2BF-4FD8-9B88-27422F58DEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6015D991-D2BF-4FD8-9B88-27422F58DEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6015D991-D2BF-4FD8-9B88-27422F58DEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6278A58E-AF6B-4003-AC31-6A4124B19AC1}
+	EndGlobalSection
+EndGlobal
