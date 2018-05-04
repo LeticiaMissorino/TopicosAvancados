@@ -1,0 +1,6 @@
+C:\Users\João Missorino\source\repos\ProjWeb1\ProjModel\bin\Debug\ProjModel.dll
+C:\Users\João Missorino\source\repos\ProjWeb1\ProjModel\bin\Debug\ProjModel.pdb
+C:\Users\João Missorino\source\repos\ProjWeb1\ProjModel\obj\Debug\ProjModel.csprojResolveAssemblyReference.cache
+C:\Users\João Missorino\source\repos\ProjWeb1\ProjModel\obj\Debug\ProjModel.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\source\repos\ProjWeb1\ProjModel\obj\Debug\ProjModel.dll
+C:\Users\João Missorino\source\repos\ProjWeb1\ProjModel\obj\Debug\ProjModel.pdb

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ProjControler;
+using ProjModel;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -10,6 +12,8 @@ namespace ProjWeb1
 {
     public partial class _default : System.Web.UI.Page
     {
+        private object Des;
+
         protected void Page_Load(object sender, EventArgs e)
         {
 
@@ -38,11 +42,21 @@ namespace ProjWeb1
             arquivo.WriteLine(msgDeclaracao);
             arquivo.Close();
 
+
+            InserirBanco(txtNome.Text);
+
+
         }
 
         protected void btnListar_Click(object sender, EventArgs e)
         {
             Response.Redirect("~/lista.aspx");
         }
+
+        private void InserirBanco( string valor) {
+            new ControllerMensagem().Insert(new Mensagem() { descricao = valor });
+                
+        }
+
     }
 }

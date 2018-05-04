@@ -56,3 +56,7 @@ C:\Users\João Missorino\source\repos\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.cspro
 C:\Users\João Missorino\source\repos\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.csproj.CopyComplete
 C:\Users\João Missorino\source\repos\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.dll
 C:\Users\João Missorino\source\repos\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.pdb
+C:\Users\João Missorino\source\repos\ProjWeb1\ProjWeb1\bin\ProjControler.dll
+C:\Users\João Missorino\source\repos\ProjWeb1\ProjWeb1\bin\ProjModel.dll
+C:\Users\João Missorino\source\repos\ProjWeb1\ProjWeb1\bin\ProjControler.pdb
+C:\Users\João Missorino\source\repos\ProjWeb1\ProjWeb1\bin\ProjModel.pdb
