@@ -1,0 +1,6 @@
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Model\bin\Debug\Model.dll
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Model\bin\Debug\Model.pdb
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Model\obj\Debug\Model.dll
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Model\obj\Debug\Model.pdb
+C:\Users\João Missorino\source\repos\ProjetoMonitoramento\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

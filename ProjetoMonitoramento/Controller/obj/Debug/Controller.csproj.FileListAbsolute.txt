@@ -1,0 +1,9 @@
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Controller\bin\Debug\Controller.dll
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Controller\bin\Debug\Controller.pdb
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Controller\bin\Debug\Model.dll
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Controller\bin\Debug\Model.pdb
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Controller\obj\Debug\Controller.csproj.CopyComplete
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Controller\obj\Debug\Controller.dll
+c:\users\joão missorino\source\repos\ProjetoMonitoramento\Controller\obj\Debug\Controller.pdb
